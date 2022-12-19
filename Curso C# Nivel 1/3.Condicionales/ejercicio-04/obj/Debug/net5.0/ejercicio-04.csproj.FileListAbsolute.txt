@@ -1,0 +1,16 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.runtimeconfig.dev.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\bin\Debug\net5.0\ejercicio-04.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\refint\ejercicio-04.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ejercicio-04.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\3.Condicionales\ejercicio-04\obj\Debug\net5.0\ref\ejercicio-04.dll
