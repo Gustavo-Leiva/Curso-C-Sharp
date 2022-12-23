@@ -1,4 +1,5 @@
 ﻿namespace ejercicio_03;
+
 class Program
 {
     static void Main(string[] args)
@@ -17,18 +18,15 @@ class Program
             Además, el equipo viene con un disco que permite almacenar 500 GB de información 
             y que se puede ampliar a 1 TB si así lo desea, lo cual tiene un costo  adicional 
             de USD 300. Hacer un programa que solicite la opción de procesador, la opción de 
-            memoria  RAM, y si extiende el disco o no (ingresa 1 para extender y 0 para no
+            memoria  RAM, y si extiende el disco o no (ingresa 1 para extender  o un 0 para no
             extender) y calcule y emita por pantalla el monto de la máquina seleccionada.
-
-
-
-
         */
 
         //Declaro las variables
         int procesador;
         int memoria;
         int disco;
+        float precio = 0;
 
         Console.WriteLine("Ingrese la opcion de memoria (1.(8ram) -2.(16ram) - 3.(32ram)): ");
         memoria = int.Parse(Console.ReadLine());
@@ -43,67 +41,36 @@ class Program
         switch (memoria)
         {
             case 1:
-
                 switch (procesador)
                 {
                     case 1:
-                        //vale 800
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1100);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 800);
+                        precio = 800;
                         break;
-                    case 2:
 
-                        //vale 900
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1200);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 900);
+                    case 2:
+                        precio = 900;
                         break;
 
                     case 3:
-
-                        //vale 1200
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1500);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1200);
+                        precio = 1000;
                         break;
-
-
                 }
                 break;
 
             case 2:
-
                 switch (procesador)
                 {
                     case 1:
-                        //vale 900
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1200);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 900);
+                        precio = 900;
                         break;
+
                     case 2:
-                        //vale 1000
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1300);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1000);
+                        precio = 1000;
                         break;
 
                     case 3:
-                        //vale 1400
-
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1700);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1400);
+                        precio = 1400;
                         break;
-
-
                 }
                 break;
 
@@ -111,36 +78,29 @@ class Program
                 switch (procesador)
                 {
                     case 1:
-                        //vale 1000
-                        if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1300);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1000);
-                        break;
-                    case 2:
-                        //vale 1400
-                          if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1700);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 1400);
-                        break;
-                       
-                    case 3:
-                        //vale 2000
-                          if (disco == 1)
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 2300);
-                        else
-                            Console.WriteLine("El precio total de la maquina seleccionada es: " + 2000);
+                        precio = 1200;
                         break;
 
-                   
+                    case 2:
+                        precio = 1400;
+                        break;
+
+                    case 3:
+                        precio = 2000;
+                        break;
                 }
                 break;
-
-
-            default:
-                break;
         }
+
+        //aca obtengo el precio
+        if (disco == 1)
+        {
+          precio = precio + 300;
+        }
+
+
+        Console.WriteLine("El precio final de la compu es: " + precio);
+
 
     }
 }
