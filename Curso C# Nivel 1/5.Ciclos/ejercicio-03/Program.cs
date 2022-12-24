@@ -6,6 +6,8 @@ class Program
         //3. Hacer un programa que solicite 20 edades y luego calcule el promedio 
         //de edad de aquellas personas mayores a 18 años.
 
+        //Resuelto con el ciclo FOR
+        
         int edad = 0;
         int mayorEdad = 18;
         int acumMayorEdad = 0;
