@@ -8,18 +8,29 @@ class Program
 
 
         //resuelto con el ciclo FOR
-        
-        int num1 =0;
-        int mayorValor =0;
+
+        int num;
+        int mayorValor = 0;
 
         for (int i = 0; i < 10; i++)
         {
             Console.WriteLine("Ingrese un numero:");
-            num1 = int.Parse(Console.ReadLine());
-            if (num1 > mayorValor)
+            num = int.Parse(Console.ReadLine());
+
+            if (i == 0)
             {
-                mayorValor = num1;
+                mayorValor = num;
             }
+            else
+            {
+                if (num > mayorValor)
+                {
+                    mayorValor = num;
+
+                }
+
+            }
+
         }
 
         Console.WriteLine("El numero mayor es: " + mayorValor);

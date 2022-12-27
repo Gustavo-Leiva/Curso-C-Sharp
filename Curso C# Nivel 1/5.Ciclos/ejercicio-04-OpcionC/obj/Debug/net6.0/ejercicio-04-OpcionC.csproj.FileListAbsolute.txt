@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\bin\Debug\net6.0\ejercicio-04-OpcionC.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\bin\Debug\net6.0\ejercicio-04-OpcionC.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\bin\Debug\net6.0\ejercicio-04-OpcionC.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\bin\Debug\net6.0\ejercicio-04-OpcionC.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\bin\Debug\net6.0\ejercicio-04-OpcionC.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\refint\ejercicio-04-OpcionC.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ejercicio-04-OpcionC.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\5.Ciclos\ejercicio-04-OpcionC\obj\Debug\net6.0\ref\ejercicio-04-OpcionC.dll

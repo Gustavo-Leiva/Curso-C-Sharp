@@ -16,9 +16,17 @@ class Program
         {
             Console.WriteLine("Ingrese un numero:");
             num1 = int.Parse(Console.ReadLine());
-            if (num1 > mayorValor)
+            if (i == 0)
             {
                 mayorValor = num1;
+            }
+            else
+            {
+                if (num1 > mayorValor)
+                {
+                    mayorValor = num1;
+                }
+
             }
             i++;
             

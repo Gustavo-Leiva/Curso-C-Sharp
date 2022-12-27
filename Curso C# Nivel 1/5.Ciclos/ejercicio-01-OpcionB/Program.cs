@@ -9,7 +9,7 @@ class Program
 
         //resuelto con ciclo While
 
-        int i = 0;        
+        int i = 1;        
         while (i <= 10)
         {
             Console.WriteLine(i);
