@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\bin\Debug\net6.0\ejercicio-03.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\bin\Debug\net6.0\ejercicio-03.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\bin\Debug\net6.0\ejercicio-03.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\bin\Debug\net6.0\ejercicio-03.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\bin\Debug\net6.0\ejercicio-03.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\refint\ejercicio-03.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ejercicio-03.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\ejercicio-03\obj\Debug\net6.0\ref\ejercicio-03.dll

@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\bin\Debug\net6.0\corteControl.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\bin\Debug\net6.0\corteControl.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\bin\Debug\net6.0\corteControl.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\bin\Debug\net6.0\corteControl.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\bin\Debug\net6.0\corteControl.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\refint\corteControl.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\corteControl.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\corteControl\obj\Debug\net6.0\ref\corteControl.dll

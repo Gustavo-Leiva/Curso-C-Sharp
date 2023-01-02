@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\bin\Debug\net6.0\unidad6-ejemplos.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\bin\Debug\net6.0\unidad6-ejemplos.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\bin\Debug\net6.0\unidad6-ejemplos.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\bin\Debug\net6.0\unidad6-ejemplos.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\bin\Debug\net6.0\unidad6-ejemplos.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\refint\unidad6-ejemplos.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\unidad6-ejemplos.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\6.Ciclos-Combinados\unidad6-ejemplos\obj\Debug\net6.0\ref\unidad6-ejemplos.dll
