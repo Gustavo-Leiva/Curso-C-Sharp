@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\bin\Debug\net6.0\ejemplo-01.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\bin\Debug\net6.0\ejemplo-01.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\bin\Debug\net6.0\ejemplo-01.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\bin\Debug\net6.0\ejemplo-01.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\bin\Debug\net6.0\ejemplo-01.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\refint\ejemplo-01.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ejemplo-01.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\8.Funciones\ejemplo-01\obj\Debug\net6.0\ref\ejemplo-01.dll
