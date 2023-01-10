@@ -1,0 +1,8 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\bin\Debug\ejemplo5.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\bin\Debug\ejemplo5.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\bin\Debug\ejemplo5.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\obj\Debug\ejemplo5.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\obj\Debug\ejemplo5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\obj\Debug\ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\obj\Debug\ejemplo5.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\laSintaxis\ejemplo5\obj\Debug\ejemplo5.pdb

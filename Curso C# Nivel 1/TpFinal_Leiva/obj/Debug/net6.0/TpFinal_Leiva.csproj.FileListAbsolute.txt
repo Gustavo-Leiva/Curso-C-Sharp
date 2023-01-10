@@ -1,0 +1,15 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\bin\Debug\net6.0\TpFinal_Leiva.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\bin\Debug\net6.0\TpFinal_Leiva.deps.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\bin\Debug\net6.0\TpFinal_Leiva.runtimeconfig.json
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\bin\Debug\net6.0\TpFinal_Leiva.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\bin\Debug\net6.0\TpFinal_Leiva.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.AssemblyInfo.cs
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\refint\TpFinal_Leiva.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\TpFinal_Leiva.genruntimeconfig.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 1\TpFinal\TpFinal_Leiva\obj\Debug\net6.0\ref\TpFinal_Leiva.dll
