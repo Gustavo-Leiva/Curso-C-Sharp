@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\bin\Debug\ProyectoNuevoII.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\bin\Debug\ProyectoNuevoII.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\bin\Debug\ProyectoNuevoII.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.Form1.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\proyectoNuevo\ProyectoNuevoII\obj\Debug\ProyectoNuevoII.pdb

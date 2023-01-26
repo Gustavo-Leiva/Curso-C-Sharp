@@ -1,0 +1,8 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\bin\Debug\practica1.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\bin\Debug\practica1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\bin\Debug\practica1.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\obj\Debug\practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\obj\Debug\practica1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\2.POO\practica1\obj\Debug\practica1.pdb

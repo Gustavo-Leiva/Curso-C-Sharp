@@ -1,0 +1,10 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\bin\Debug\ejemplo1.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\bin\Debug\ejemplo1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\bin\Debug\ejemplo1.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\primeraAppWinForm\ejemplo1\obj\Debug\ejemplo1.pdb
