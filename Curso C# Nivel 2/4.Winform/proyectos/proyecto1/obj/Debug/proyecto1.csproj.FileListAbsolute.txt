@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.Formulario1.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\proyecto1\obj\Debug\proyecto1.pdb

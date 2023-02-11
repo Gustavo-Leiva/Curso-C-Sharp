@@ -26,7 +26,7 @@ namespace desafio1
 
         //PUNTO 4) -Propiedades-
         //metodo corto (lectura)
-        public string Modelo { get; }
+        public string Modelo { get ; }
 
         //metodo largo (lectura)
         public string Marca

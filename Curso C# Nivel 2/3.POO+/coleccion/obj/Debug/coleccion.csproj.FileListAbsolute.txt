@@ -1,0 +1,8 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\bin\Debug\coleccion.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\bin\Debug\coleccion.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\bin\Debug\coleccion.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\obj\Debug\coleccion.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\obj\Debug\coleccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\obj\Debug\coleccion.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\obj\Debug\coleccion.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\3.POO+\coleccion\obj\Debug\coleccion.pdb

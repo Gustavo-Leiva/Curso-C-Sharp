@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\bin\Debug\miPrimerAplicacion.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\bin\Debug\miPrimerAplicacion.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\bin\Debug\miPrimerAplicacion.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.FormPrincipal.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\miPrimerAplicacion\obj\Debug\miPrimerAplicacion.pdb

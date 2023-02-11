@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\bin\Debug\Practica_Integral.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\bin\Debug\Practica_Integral.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\bin\Debug\Practica_Integral.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.Formulario5.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\4.Winform\proyectos\Practica_Integral\obj\Debug\Practica_Integral.pdb
