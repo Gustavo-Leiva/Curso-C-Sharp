@@ -37,7 +37,7 @@ namespace WinForms_App
                 //(direccion (nombre reemplazamos por punto)
                 //( a donde me voy a conectar, Nombre la base de datos.)
                 //(indico como me voy a conectar (hay dos maneras, 1ero sql autenticacion y la 2da window autentication (usamos este))
-                //, 
+                
                 conexion.ConnectionString = "server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true"; //donde nos contactamos, 
 
                 //B) configuro el comando.(inyecto la secuencia sql que quiero ejecutar.
@@ -45,7 +45,10 @@ namespace WinForms_App
                 comando.CommandText = "Select Numero, Nombre, P.Descripcion, UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad From POKEMONS P, ELEMENTOS E, ELEMENTOS D Where E.Id = P.IdTipo And D.Id = P.IdDebilidad"; //aca paso el texto que quiere que consulte (siempre primero consulto en sql para evitar errores)
                 comando.Connection = conexion; //este comando.Connection va a ejecutar en esa conexion.
 
+                //c) abro la conexion
                 conexion.Open(); //abro la conexion
+
+                //d) leemos los datos.
                 lector = comando.ExecuteReader();//realizo la lectura.
 
 
