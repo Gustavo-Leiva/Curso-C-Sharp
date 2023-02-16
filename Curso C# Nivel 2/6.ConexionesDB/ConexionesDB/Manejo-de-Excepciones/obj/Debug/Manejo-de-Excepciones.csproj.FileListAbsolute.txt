@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\bin\Debug\Manejo-de-Excepciones.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\bin\Debug\Manejo-de-Excepciones.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\bin\Debug\Manejo-de-Excepciones.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo_de_Excepciones.Form1.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo_de_Excepciones.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ConexionesDB\Manejo-de-Excepciones\obj\Debug\Manejo-de-Excepciones.pdb
