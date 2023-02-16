@@ -45,10 +45,7 @@ namespace WinForms_App
                 comando.CommandText = "Select Numero, Nombre, P.Descripcion, UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad From POKEMONS P, ELEMENTOS E, ELEMENTOS D Where E.Id = P.IdTipo And D.Id = P.IdDebilidad"; //aca paso el texto que quiere que consulte (siempre primero consulto en sql para evitar errores)
                 comando.Connection = conexion; //este comando.Connection va a ejecutar en esa conexion.
 
-                //c) abro la conexion
-                conexion.Open(); //abro la conexion
-
-                //d) leemos los datos.
+                conexion.Open(); //abro la conexion                
                 lector = comando.ExecuteReader();//realizo la lectura.
 
 
