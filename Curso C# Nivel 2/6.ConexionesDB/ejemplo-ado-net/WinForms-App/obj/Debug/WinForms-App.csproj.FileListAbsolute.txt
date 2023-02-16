@@ -1,0 +1,11 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\bin\Debug\WinForms-App.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\bin\Debug\WinForms-App.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\bin\Debug\WinForms-App.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms_App.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms-App.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\6.ConexionesDB\ejemplo-ado-net\WinForms-App\obj\Debug\WinForms_App.frmPokemons.resources
