@@ -25,8 +25,10 @@ namespace practica3
 			{
 				conexion.ConnectionString = "server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true";
 				comando.CommandType = System.Data.CommandType.Text;
-				comando.CommandText = "Select Numero, Nombre, Descripcion, UrlImagen From POKEMONS";
-				comando.Connection= conexion;
+				comando.CommandText = "Select Numero, Nombre, P.Descripcion, UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad From POKEMONS P, ELEMENTOS E, ELEMENTOS D Where E.Id = P.IdTipo And D.Id = P.IdDebilidad";  //modifico la consulta para relacionar las dos tablas.
+                comando.Connection= conexion;
+				
+				
 				conexion.Open();
 				lector = comando.ExecuteReader();
 
@@ -38,8 +40,13 @@ namespace practica3
 					aux.Nombre = (string)lector["Nombre"];
 					aux.Descripcion = (string)lector["Descripcion"];
 					aux.UrlImagen = (string)lector["UrlImagen"];
-				
-					lista.Add(aux);
+
+					aux.Tipo = new Elemento(); //creo esta instancia porque si hago Tipo. va a dar referencia nula. porque no exite un objeto de tipo Elemento.
+					aux.Tipo.Descripcion = (string)lector["Tipo"]; //agrego en el objeto tipo la columna que corresponda. o sea Tipo.
+                    aux.Debilidad = new Elemento(); //creo el objeto debilidad
+                    aux.Debilidad.Descripcion = (string)lector["Debilidad"]; //agrego en el objeto la descripcion de debilidad.
+
+                    lista.Add(aux);
 				
 				}
 

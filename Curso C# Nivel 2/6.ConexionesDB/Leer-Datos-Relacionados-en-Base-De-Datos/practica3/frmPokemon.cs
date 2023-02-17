@@ -26,7 +26,8 @@ namespace practica3
           PokemonNegocio negocio = new PokemonNegocio();
           listaPokemon = negocio.listar();
           dgvPokemon.DataSource = negocio.listar();
-          pbxPokemon.Load(listaPokemon[0].UrlImagen);
+          dgvPokemon.Columns["UrlImagen"].Visible = false;//oculta la columna de UrlImagen.
+          cargarImagen(listaPokemon[0].UrlImagen);
 
         }
 
