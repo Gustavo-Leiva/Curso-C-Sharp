@@ -1,0 +1,16 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\Arquitectura-en-Capas.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\Arquitectura-en-Capas.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\Arquitectura-en-Capas.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura_en_Capas.frmPokemons.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura_en_Capas.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\negocio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\bin\Debug\negocio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\Arquitectura-en-Capas\obj\Debug\Arquitectura-en-Capas.csproj.CopyComplete
