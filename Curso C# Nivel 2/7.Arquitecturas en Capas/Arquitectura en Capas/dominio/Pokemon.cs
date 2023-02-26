@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Arquitectura_en_Capas
+namespace dominio
 {
     public class Pokemon
     {

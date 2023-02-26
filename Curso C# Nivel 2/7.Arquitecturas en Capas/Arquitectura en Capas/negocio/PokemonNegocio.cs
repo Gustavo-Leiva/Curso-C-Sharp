@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using dominio;
 
 
 //Terminado conecta con una base de datos.
 
-namespace Arquitectura_en_Capas
+namespace negocio
 {
     public class PokemonNegocio
     {

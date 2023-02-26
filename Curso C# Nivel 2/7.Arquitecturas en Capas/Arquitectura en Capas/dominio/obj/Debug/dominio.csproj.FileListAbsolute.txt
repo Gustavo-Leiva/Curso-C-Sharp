@@ -4,3 +4,9 @@ C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Ar
 C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\dominio\obj\Debug\dominio.dll
 C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura-en-Capas\dominio\obj\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\bin\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\bin\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\obj\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Arquitectura en Capas\dominio\obj\Debug\dominio.pdb
