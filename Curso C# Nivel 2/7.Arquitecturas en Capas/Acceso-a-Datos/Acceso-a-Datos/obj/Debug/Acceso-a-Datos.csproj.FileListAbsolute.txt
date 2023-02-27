@@ -1,0 +1,16 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\Acceso-a-Datos.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\Acceso-a-Datos.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\Acceso-a-Datos.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso_a_Datos.frmPokemon.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso_a_Datos.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\negocio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\bin\Debug\negocio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\Acceso-a-Datos\Acceso-a-Datos\obj\Debug\Acceso-a-Datos.csproj.CopyComplete
