@@ -1,0 +1,17 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\InsertarRegistro.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\InsertarRegistro.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\InsertarRegistro.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.frmPokemon.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\negocio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\bin\Debug\negocio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.csproj.CopyComplete
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\InsertarRegistro\InsertarRegistro\obj\Debug\InsertarRegistro.frmAltaPokemon.resources
