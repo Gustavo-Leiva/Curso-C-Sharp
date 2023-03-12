@@ -69,7 +69,7 @@ namespace InsertarRegistro
         private void btnAgregar_Click(object sender, EventArgs e)
         {           
 
-            frmAltaPokemon alta = new frmAltaPokemon();
+            frmAltaPokemon alta = new frmAltaPokemon();//creo un objeto.
             alta.ShowDialog();//este showDialog no permite salir hasta que termines de trabajar en esa ventaana.
 
         }

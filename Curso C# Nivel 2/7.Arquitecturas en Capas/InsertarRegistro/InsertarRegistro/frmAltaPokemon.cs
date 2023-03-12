@@ -24,15 +24,14 @@ namespace InsertarRegistro
             this.Close();//cierra la ventana de cancelar.
         }
 
+
+        //capturo los datos y los convierto en datos de tipos pokemon
         private void button1_Click(object sender, EventArgs e)
         {
             //Al momento de hacer click tengo que leer los datos.
-            Pokemon poke = new Pokemon();
-            PokemonNegocio negocio = new PokemonNegocio();
-         
+            Pokemon poke = new Pokemon(); //1ero creo el objeto pokemon.
+            PokemonNegocio negocio = new PokemonNegocio();      
            
-
-
 
             try
             {
@@ -41,9 +40,9 @@ namespace InsertarRegistro
                 poke.Nombre = txtNombre.Text;   
                 poke.Descripcion= txtDescripcion.Text;
 
-                //para agregar.
-                negocio.agregar(poke);
-                MessageBox.Show("agregado exitosamente");
+                
+                negocio.agregar(poke);//para agregar la envio a la base de datos.
+                MessageBox.Show("agregado exitosamente"); //mando el mensaje que fue agregado con exito.
                 Close();
 
             }

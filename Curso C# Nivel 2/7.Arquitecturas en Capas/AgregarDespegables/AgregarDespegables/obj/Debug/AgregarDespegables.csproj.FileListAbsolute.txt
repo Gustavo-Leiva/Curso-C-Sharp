@@ -1,0 +1,17 @@
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\AgregarDespegables.exe.config
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\AgregarDespegables.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\AgregarDespegables.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.frmPokemon.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.Properties.Resources.resources
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.csproj.GenerateResource.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.csproj.CoreCompileInputs.cache
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.exe
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\dominio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\negocio.dll
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\dominio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\bin\Debug\negocio.pdb
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.csproj.CopyComplete
+C:\Users\Impuestos\Desktop\Curso C#\Curso C# Nivel 2\7.Arquitecturas en Capas\AgregarDespegables\AgregarDespegables\obj\Debug\AgregarDespegables.frmAltaPokemon.resources

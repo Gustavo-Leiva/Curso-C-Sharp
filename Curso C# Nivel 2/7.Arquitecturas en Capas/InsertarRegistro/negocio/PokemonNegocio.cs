@@ -58,7 +58,7 @@ namespace negocio
             catch (Exception ex)
             {
 
-                throw ex;
+                throw ex; 
             }
 
         }
@@ -99,6 +99,8 @@ namespace negocio
                 datos.cerrarConexion(); //aca cierro la conexion.
             }
         }
+
+
 
         public void modificar(Pokemon modificar)
         {

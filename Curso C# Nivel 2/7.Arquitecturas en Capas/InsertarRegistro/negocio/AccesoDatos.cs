@@ -52,7 +52,7 @@ namespace negocio
         }
 
 
-        //creo ejectuar accion.....porque no tengo el de lectura.
+        //creo ejectuar accion de no lectura.
         public void ejecutarAccion()
         {
             comando.Connection = conexion;

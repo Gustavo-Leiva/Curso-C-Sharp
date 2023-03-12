@@ -35,7 +35,7 @@ namespace negocio
             catch (Exception ex)
             {
 
-                throw ex;
+                throw ex; //no funciona si es que la base de datos tiene un Null en el campo Imagen.
             }
 
             finally
